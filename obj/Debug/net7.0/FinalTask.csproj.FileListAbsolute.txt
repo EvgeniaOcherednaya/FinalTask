@@ -1,0 +1,14 @@
+C:\Users\evpal\Desktop\FinalTask\bin\Debug\net7.0\FinalTask.exe
+C:\Users\evpal\Desktop\FinalTask\bin\Debug\net7.0\FinalTask.deps.json
+C:\Users\evpal\Desktop\FinalTask\bin\Debug\net7.0\FinalTask.runtimeconfig.json
+C:\Users\evpal\Desktop\FinalTask\bin\Debug\net7.0\FinalTask.dll
+C:\Users\evpal\Desktop\FinalTask\bin\Debug\net7.0\FinalTask.pdb
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfo.cs
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.dll
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\refint\FinalTask.dll
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.pdb
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\FinalTask.genruntimeconfig.cache
+C:\Users\evpal\Desktop\FinalTask\obj\Debug\net7.0\ref\FinalTask.dll
